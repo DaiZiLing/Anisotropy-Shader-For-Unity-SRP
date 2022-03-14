@@ -1,5 +1,7 @@
 # Anisotropy-Shader-For-Unity-SRP
 
+![image](https://github.com/DaiZiLing/Anisotropy-Shader-For-Unity-SRP/blob/main/Pictures/QQ截图20220314194016.png)
+
 This is an Anisotropy PBR shader on Unity SRP.
 
 # Here we can get 4 folders insides.
@@ -15,3 +17,4 @@ This is an Anisotropy PBR shader on Unity SRP.
 
 ![image](https://github.com/DaiZiLing/Anisotropy-Shader-For-Unity-SRP/blob/main/Pictures/0312_4.gif)
 ![image](https://github.com/DaiZiLing/Anisotropy-Shader-For-Unity-SRP/blob/main/Pictures/0312_5.gif)
+![image](https://github.com/DaiZiLing/Anisotropy-Shader-For-Unity-SRP/blob/main/Pictures/0312_6.gif)
